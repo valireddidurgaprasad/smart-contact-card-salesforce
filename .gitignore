@@ -1,0 +1,10 @@
+.sf/
+.sfdx/
+.localdevserver/
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
